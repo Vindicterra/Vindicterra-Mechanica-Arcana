@@ -1,0 +1,44 @@
+[20:54:06.863] [INFO]: Loading config 'startup.json'.
+[20:54:17.416] [INFO]: Loaded plugins: almostunified:neoforge, almostunified:common
+[20:56:24.463] [WARN]: Reload detected. Reconstructing runtime.
+[20:56:24.466] [INFO]: Loading config 'debug.json'.
+[20:56:24.483] [INFO]: Loading config 'placeholders.json'.
+[20:56:24.511] [INFO]: Loading config 'tags.json'.
+[20:56:24.615] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:plates/nickel' -> [tfmg:nickel_sheet]
+[20:56:24.615] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:plates/gold' -> [immersiveengineering:plate_gold]
+[20:56:24.616] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:plates/lead' -> [tfmg:lead_sheet]
+[20:56:24.616] [INFO]: [AutoHiding] Hiding 2/4 items for tag '#c:ores/nickel' -> [tfmg:deepslate_nickel_ore, tfmg:nickel_ore]
+[20:56:24.617] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/raw_nickel' -> [tfmg:raw_nickel_block]
+[20:56:24.617] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:wires/aluminum' -> [tfmg:aluminum_wire]
+[20:56:24.618] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:plates/steel' -> [tfmg:heavy_plate, cgs:steel_sheet]
+[20:56:24.619] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:raw_materials/nickel' -> [tfmg:raw_nickel]
+[20:56:24.619] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/nickel' -> [tfmg:nickel_block]
+[20:56:24.619] [INFO]: [AutoHiding] Hiding 3/4 items for tag '#c:nuggets/steel' -> [createbigcannons:steel_scrap, tfmg:steel_nugget, cgs:steel_nugget]
+[20:56:24.619] [INFO]: [AutoHiding] Hiding 3/4 items for tag '#c:ingots/steel' -> [createbigcannons:steel_ingot, tfmg:steel_ingot, cgs:steel_ingot]
+[20:56:24.619] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/aluminum' -> [tfmg:aluminum_block]
+[20:56:24.619] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/constantan' -> [tfmg:constantan_ingot]
+[20:56:24.620] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/constantan' -> [tfmg:constantan_nugget]
+[20:56:24.620] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:wires/copper' -> [tfmg:copper_wire]
+[20:56:24.620] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:plates/aluminum' -> [tfmg:aluminum_sheet]
+[20:56:24.621] [INFO]: [AutoHiding] Hiding 4/6 items for tag '#c:ores/lead' -> [tfmg:lead_ore, cgs:lead_ore, cgs:deepslate_lead_ore, tfmg:deepslate_lead_ore]
+[20:56:24.621] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:storage_blocks/raw_lead' -> [tfmg:raw_lead_block, cgs:raw_lead_block]
+[20:56:24.621] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:raw_materials/lead' -> [tfmg:raw_lead, cgs:raw_lead]
+[20:56:24.621] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/lead' -> [tfmg:lead_block]
+[20:56:24.621] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:nuggets/lead' -> [tfmg:lead_nugget, cgs:lead_nugget]
+[20:56:24.621] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/netherite' -> [createdeco:netherite_nugget]
+[20:56:24.621] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/nickel' -> [tfmg:nickel_ingot]
+[20:56:24.621] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:ingots/lead' -> [tfmg:lead_ingot, cgs:lead_ingot]
+[20:56:24.621] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:plates/iron' -> [immersiveengineering:plate_iron]
+[20:56:24.622] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/constantan' -> [tfmg:constantan_block]
+[20:56:24.622] [INFO]: [AutoHiding] Hiding 3/4 items for tag '#c:storage_blocks/steel' -> [tfmg:steel_block, createbigcannons:steel_block, cgs:steel_block]
+[20:56:24.623] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/copper' -> [immersiveengineering:nugget_copper]
+[20:56:24.623] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/nickel' -> [tfmg:nickel_nugget]
+[20:56:24.623] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/aluminum' -> [tfmg:aluminum_nugget]
+[20:56:24.623] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:rods/steel' -> [tfmg:rebar]
+[20:56:24.623] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:dusts/sulfur' -> [tfmg:sulfur_dust, cgs:sulfur]
+[20:56:24.624] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/aluminum' -> [tfmg:aluminum_ingot]
+[20:56:24.624] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:plates/copper' -> [immersiveengineering:plate_copper]
+[20:56:28.777] [INFO]: Loading config 'duplicates.json'.
+[20:56:28.787] [INFO]: Recipe count: 10727
+[20:56:28.821] [INFO]: 9793 out of 10727 recipes were loaded for unification.
+[20:56:29.152] [INFO]: Recipe count afterwards: 10644 (done in 364.9 ms)
