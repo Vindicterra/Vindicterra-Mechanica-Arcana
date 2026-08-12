@@ -1,0 +1,10 @@
+journeymap/data/sp/
+logs/
+command_history.txt
+saves/
+schematics/
+.sable/
+crash-reports/
+downloads/
+generated/
+.mixin.out/
