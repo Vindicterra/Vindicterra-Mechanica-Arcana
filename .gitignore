@@ -8,3 +8,9 @@ crash-reports/
 downloads/
 generated/
 .mixin.out/
+options.txt
+config/better-advanced-tooltips-client.toml
+journeymap/journeymap.log
+config/jei/recipe-category-sort-order.ini
+config/jei/ingredient-list-mod-sort-order.ini
+config/jei/world/local/New_World/lookupHistory.json
