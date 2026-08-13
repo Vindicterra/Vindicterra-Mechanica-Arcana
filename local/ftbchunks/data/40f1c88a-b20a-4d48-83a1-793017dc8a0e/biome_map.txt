@@ -1,0 +1,6 @@
+#556 minecraft:beach
+#4CA minecraft:dripstone_caves
+#010 minecraft:forest
+#3DC minecraft:plains
+#5FF minecraft:river
+#4C3 minecraft:windswept_hills

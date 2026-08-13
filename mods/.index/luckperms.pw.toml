@@ -1,0 +1,18 @@
+filename = 'LuckPerms-NeoForge-5.4.140.jar'
+name = 'LuckPerms'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = 'v5.4.140 (NeoForge 1.21.1)'
+
+[download]
+hash = 'bd368d3254d81120a8c287f79c0467478ad2d73e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5654231
+project-id = 431733

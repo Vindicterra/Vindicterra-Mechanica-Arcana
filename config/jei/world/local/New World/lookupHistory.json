@@ -1,0 +1,7 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"railways:track_ender_narrow"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"railways:track_blackstone_narrow"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"dndesires:gatling_breaker","components":"{\"minecraft:enchantments\":{levels:{\"minecraft:efficiency\":5}}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"dndesires:gatling_breaker"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
