@@ -18,3 +18,10 @@ journeymap/config/6.0/journeymap.minimap.config
 .mixin.out/class/dev/engine_room/flywheel/backend/engine/indirect/MatrixBuffer.class
 journeymap/data/mp/offline/waypoints/WaypointData.dat
 journeymap/
+servers.dat
+servers.dat_old
+local/ftbchunks
+dynamic-resource-pack-cache/supplementaries-generated_pack/
+config/jei
+journeymap/config/
+debug/
