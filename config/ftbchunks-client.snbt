@@ -137,7 +137,28 @@
 		# Show entity heads on minimap
 		# Default: true
 		entity_heads: true
-		entity_icon: { }
+		entity_icon: {
+			"minecraft:squid": true
+			"minecraft:rabbit": true
+			"minecraft:glow_squid": true
+			"minecraft:wandering_trader": true
+			"minecraft:cow": true
+			"minecraft:pig": true
+			"minecraft:donkey": true
+			"irons_spellbooks:priest": true
+			"minecraft:sheep": true
+			"minecraft:zombie": true
+			"minecraft:skeleton": true
+			"minecraft:enderman": true
+			"minecraft:spider": true
+			"minecraft:chicken": true
+			"minecraft:bat": true
+			"minecraft:iron_golem": true
+			"minecraft:villager": true
+			"minecraft:creeper": true
+			"irons_spellbooks:necromancer": true
+			"minecraft:trader_llama": true
+		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
 		# Default: 0.5
