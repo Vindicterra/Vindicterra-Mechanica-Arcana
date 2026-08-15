@@ -25,3 +25,11 @@ dynamic-resource-pack-cache/supplementaries-generated_pack/
 config/jei
 journeymap/config/
 debug/
+config/jei/jei-client.ini
+config/jei/jei-debug.ini
+config/starterkit/
+config/jade/
+config/ftbchunks-client.snbt
+config/ftbessentials.snbt
+config/ftblibrary-client.snbt
+journeymap/config/6.0/journeymap.core.config
