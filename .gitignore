@@ -33,3 +33,7 @@ config/ftbchunks-client.snbt
 config/ftbessentials.snbt
 config/ftblibrary-client.snbt
 journeymap/config/6.0/journeymap.core.config
+minecraftinstance.json
+config/flywheel-client-1.toml.bak
+config/flywheel-client-4.toml.bak
+config/flywheel-client.toml
